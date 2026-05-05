@@ -225,3 +225,5 @@ Thumbs.db
 *.h5data/test_datasets/
 data/
 notebooks/naca0012_transonic_buffet/
+*.pt
+*.stl
