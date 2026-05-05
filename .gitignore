@@ -222,3 +222,4 @@ Thumbs.db
 *.xlsx
 *.zip
 *.h5data/test_datasets/
+data/
