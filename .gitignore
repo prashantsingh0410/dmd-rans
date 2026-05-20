@@ -228,3 +228,4 @@ notebooks/naca0012_transonic_buffet/
 *.pt
 *.stl
 *.log
+src/dataProcessing.py
